@@ -1,3 +1,5 @@
+![Bleu et Blanc Architecte LinkedIn Bannière](https://github.com/AlexandrePereon/AlexandrePereon/assets/146815155/6be6fdb9-bd4e-4563-b582-3d2e6217ab2f)
+
 <div align=Center>
 <table>
     <td align="Left" width="600">
