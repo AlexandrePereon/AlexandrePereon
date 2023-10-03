@@ -1,24 +1,19 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align=Center>
 <table>
     <td align="Left" width="600">
-      <a href="https://www.youtube.com/watch?v=sOLIdqpzrW4">
+      <a href="https://metrics.lecoq.io/">
         <img src="https://metrics.lecoq.io/AlexandrePereon">
       </a>
       <br>
     </td>
     <td align="Center" width="600">
-      <a href="https://www.youtube.com/watch?v=sOLIdqpzrW4">
+      <a href="https://metrics.lecoq.io/">
         <img src = "https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/Assets/imgs/hacker.gif" width = 400px>
       </a>
       <br>
     </td>
 </table>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 #### 💻Tools, languages, and other things that I like to work with💻
 
