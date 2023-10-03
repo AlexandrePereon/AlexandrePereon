@@ -1,24 +1,71 @@
-- 👋 Hi, I’m @AlexandrePereon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://github.com/AVS1508">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=AlexandrePereon&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrePereon&theme=radical&title_color=8E2DE2&text_color=fff" />
-</a>
+<div align=Center>
+<table>
+    <td align="Left" width="600">
+      <a href="https://www.youtube.com/watch?v=sOLIdqpzrW4">
+        <img src="https://metrics.lecoq.io/AlexandrePereon">
+      </a>
+      <br>
+    </td>
+    <td align="Center" width="600">
+      <a href="https://www.youtube.com/watch?v=sOLIdqpzrW4">
+        <img src = "https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/Assets/imgs/hacker.gif" width = 400px>
+      </a>
+      <br>
+    </td>
+</table>
+</div>
 
-### ⚙️ &nbsp;GitHub Analytics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-<a href="https://github.com/AlexandrePereon">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexandrePereon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexandrePereon&layout=compact&langs_count=8&theme=algolia&title_color=8E2DE2&text_color=fff"/>
-</a>
+
+#### 💻Tools, languages, and other things that I like to work with💻
+
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+<a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+
+<hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/AlexandrePereon">
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=AlexandrePereon&theme=radical" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/AlexandrePereon">
+      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandrePereon&theme=radical" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/AlexandrePereon">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrePereon&theme=radical" />
+    </a>
+  </div>
+  <br>
 </p>
 
-<!---
-AlexandrePereon/AlexandrePereon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align=center>
+<img src="https://github-profile-trophy.vercel.app/?username=AlexandrePereon&theme=radical&no-frame=true&row=1&&margin-w=30&no-bg=true">
+</div>
+
+<hr>
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
