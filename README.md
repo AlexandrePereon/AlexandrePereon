@@ -73,6 +73,16 @@
 <img src="https://github-profile-trophy.vercel.app/?username=AlexandrePereon&theme=radical&no-frame=true&row=1&&margin-w=30&no-bg=true">
 </div>
 
+## Where to find me
+
+
+<div align=center>
+    <a href="https://github.com/AlexandrePereon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/alexandre-pereon" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://alexandrepereon.fr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/portfolio-%808080.svg?&style=for-the-badge&logo=powershell&logoColor=white" /></a>
+</div>
+
+
 <hr>
 <hr>
 
