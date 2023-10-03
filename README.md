@@ -23,19 +23,18 @@
 
 <br>
 <div align="center">
-   <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+    <a src="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
     <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
     <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
     <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
     <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-    <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+    <a src="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
     <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
     <a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
     <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
     <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
 </div>
-
 
 <hr>
 <br>
