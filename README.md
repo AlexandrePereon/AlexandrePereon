@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <img src="https://github-readme-stats.vercel.app/api?username=AlexandrePereon&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&theme=radical&title_color=8E2DE2&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrePereon&theme=radical&title_color=8E2DE2&text_color=fff)
 
 <!---
 AlexandrePereon/AlexandrePereon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
