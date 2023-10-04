@@ -1,4 +1,22 @@
-![Bleu et Blanc Architecte LinkedIn Bannière](https://github.com/AlexandrePereon/AlexandrePereon/assets/146815155/6be6fdb9-bd4e-4563-b582-3d2e6217ab2f)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<br>
+<hr>
+<br>
+
+## About ✨me✨
+
+<pre>
+💻 I am a second year student in a Computer Science Master's degree program
+📝 I have a strong interest in Web development, Artificial Intelligence or even Project Panagement
+🔭 Working on different Chrome Extension, Web Project, Cybersecurity 
+🌟 Main languages: Python, JavaScript
+🤔 I am actively seeking an internship aboard from July to October 2024</b>, this is <a href="https://alexandrepereon.fr/assets/PEREON%20Alexandre%20-%20resume.pdf" target="_blank">MY RESUME.</a>
+</pre>
+<br>
 
 <div align=Center>
 <table>
@@ -10,15 +28,15 @@
     </td>
     <td align="Center" width="600">
       <a href="https://metrics.lecoq.io/">
-        <img src = "https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/Assets/imgs/hacker.gif" width = 400px>
+        <img src = "https://github.com/AlexandrePereon/AlexandrePereon/assets/146815155/d06441ad-5c78-4fa7-a8af-94224efe0933" width = 400px>
       </a>
       <br>
     </td>
 </table>
 </div>
 
+<br>
 <hr>
-
 <br>
 
 ## 💻Tools, languages, and other things that I like to work with💻
@@ -45,6 +63,7 @@
     
 </div>
 
+<br>
 <hr>
 <br>
 
@@ -82,10 +101,10 @@
     <a href="https://alexandrepereon.fr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/portfolio-%808080.svg?&style=for-the-badge&logo=powershell&logoColor=white" /></a>
 </div>
 
-
 <hr>
 <hr>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
