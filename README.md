@@ -11,7 +11,7 @@
 
 <pre>
 💻 I am a second year student in a Computer Science Master's degree program
-📝 I have a strong interest in Web development, Artificial Intelligence or even Project Panagement
+📝 I have a strong interest in Web development, Artificial Intelligence or even Project Management
 🔭 Working on different Chrome Extension, Web Project, Cybersecurity 
 🌟 Main languages: Python, JavaScript
 🤔 I am actively seeking an internship aboard from July to October 2024</b>, this is <a href="https://alexandrepereon.fr/assets/PEREON%20Alexandre%20-%20resume.pdf" target="_blank">MY RESUME.</a>
