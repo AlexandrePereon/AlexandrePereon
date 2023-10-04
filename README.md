@@ -54,8 +54,9 @@
     <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
     <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
     <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-    <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
     <a src="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+    <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+    <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
     <a src="https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
     <a src="https://www.mysql.com/fr/"><img src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
     <a src="https://vuejs.org/"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
