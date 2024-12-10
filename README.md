@@ -19,12 +19,6 @@
 
 <div align=Center>
 <table>
-    <td align="Left" width="600">
-      <a href="https://metrics.lecoq.io/">
-        <img src="https://metrics.lecoq.io/AlexandrePereon">
-      </a>
-      <br>
-    </td>
     <td align="Center" width="600">
       <a href="https://metrics.lecoq.io/">
         <img src = "https://github.com/AlexandrePereon/AlexandrePereon/assets/146815155/d06441ad-5c78-4fa7-a8af-94224efe0933" width = 400px>
