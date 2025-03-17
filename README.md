@@ -10,7 +10,7 @@
 ## About ✨me✨
 
 <pre>
-💻 I am a second year student in a Computer Science Master's degree program
+💻 I am in my final year of a Computer Science Master's degree program
 📝 I have a strong interest in Web development, Artificial Intelligence or even Project Management
 🔭 Working on different Chrome Extension, Backend, Web Project, Cybersecurity 
 🌟 Main languages: Python, TypeScript
