@@ -9,11 +9,12 @@
 
 ## About ✨me✨
 
-<pre>
-💻 I am in my final year of a Computer Science Master's degree program
-📝 I have a strong interest in Web development, Artificial Intelligence or even Project Management
-🔭 Working on different Chrome Extension, Backend, Web Project, Cybersecurity 
-🌟 Main languages: Python, TypeScript
+<pre> 
+  💻 Computer Science Engineer with 3 years of hands-on experience in software development 
+  🌐 Experienced in Web development, Fullstack projects, and AI-related initiatives 
+  🔭 Doing Backend & Web Projects, self-hosted utilities, Chrome Extensions and internal tools for optimizing workflows 
+  🌟 Main languages: TypeScript, Python 
+  ❤️ Love NestJS and Nuxt
 </pre>
 <br>
 
@@ -36,26 +37,37 @@
 
 <br>
 <div align="center">
-    <a src="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
-    <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-    <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-    <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-    <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-    <a src="https://www.php.net/"><img src="https://img.icons8.com/color/48/000000/php.png"/></a>
-    <a src="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-    <a src="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
-    <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-    <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-    <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-    <a src="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-    <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-    <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
-    <a src="https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
-    <a src="https://www.mysql.com/fr/"><img src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
-    <a src="https://vuejs.org/"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
-    <a src="https://angular.io/"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>
-    
+    <!-- IDE / Editors -->
+    <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+    <!-- Frontend -->
+    <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+    <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+    <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+    <a href="https://vuejs.org/"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
+    <a href="https://angular.io/"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>
+    <a href="https://nuxt.com/"><img src="https://img.icons8.com/color/48/000000/nuxt-jc.png"/></a>
+    <a href="https://tailwindcss.com/"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></a>
+    <!-- Backend / Frameworks -->
+    <a href="https://www.php.net/"><img src="https://img.icons8.com/color/48/000000/php.png"/></a>
+    <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+    <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
+    <a href="https://nestjs.com/"><img src="https://img.icons8.com/color/48/000000/nestjs.png"/></a>
+    <a href="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+    <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+    <!-- Databases -->
+    <a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
+    <a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
+    <a href="https://redis.io/"><img src="https://img.icons8.com/color/48/000000/redis.png"/></a>
+    <!-- Tools / DevOps / Versioning -->
+    <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+    <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+    <a href="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+    <a href="https://about.gitlab.com/"><img src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
+    <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
+
 </div>
+
 
 <br>
 <hr>
